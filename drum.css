@@ -17,23 +17,23 @@ footer {
 }
 
 .w {
-  background-image: url(/html/drum/images/snare.png);
+  background-image: url(./images/snare.png);
 }
 
 .a {
-    background-image: url(/html/drum/images/crash.png);
+    background-image: url(./images/crash.png);
 }
 
 .s {
-  background-image: url(/html/drum/images/kick.png);
+  background-image: url(./images/kick.png);
 }
 
 .d {
- background-image: url(/html/drum/images/tom1.png);
+ background-image: url(./images/tom1.png);
 }
 
 .j {
- background-image: url(/html/drum/images/tom2.png);
+ background-image: url.(images/tom2.png);
 }
 
 .k {
@@ -41,7 +41,7 @@ footer {
 }
 
 .l {
-  background-image: url(/html/drum/images/tom4.png);
+  background-image: url(./images/tom4.png);
 }
 
 .set {
